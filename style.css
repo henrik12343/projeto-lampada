@@ -1,0 +1,21 @@
+header ,
+main{
+    
+    background-color: rgb(255, 255, 255);
+    display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+}
+.botao{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+img{
+    width: 200pxpx;
+    height: 300px;
+}
+h1{
+    font-size: 40px;
+}
